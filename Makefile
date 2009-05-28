@@ -1,4 +1,4 @@
-CC = arm-angstrom-linux-uclibcgnueabi-gcc
+CC = arm-none-linux-gnueabi-gcc
 CFLAGS = -Wall
 LDFLAGS = 
 

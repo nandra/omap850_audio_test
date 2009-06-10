@@ -1,7 +1,6 @@
-#CC = arm-none-linux-gnueabi-gcc
-CC = gcc
+CC = arm-none-linux-gnueabi-gcc
+#CC = gcc
 
-#LIB = /home/marek.nandra/projects/omap850_audio_test/wav
 CFLAGS = -Wall 
 LDFLAGS = 
 
